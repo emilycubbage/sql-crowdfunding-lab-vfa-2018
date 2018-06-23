@@ -1,3 +1,5 @@
 CREATE TABLE project(
-title STRING
+  title TEXT,
+  category TEXT,
+  funding_goal 
 )
