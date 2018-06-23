@@ -8,5 +8,6 @@ CREATE TABLE project(
 
 CREATE TABLE user(
   name TEXT,
-  age INEG
-)
+  age INTEGER
+);
+
