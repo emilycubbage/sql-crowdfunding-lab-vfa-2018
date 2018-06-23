@@ -7,6 +7,7 @@ CREATE TABLE project(
 );
 
 CREATE TABLE user(
+  id INTEGER,
   name TEXT,
   age INTEGER
 );
