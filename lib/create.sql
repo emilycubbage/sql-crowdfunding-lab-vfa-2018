@@ -13,3 +13,5 @@ CREATE TABLE user(
   age INTEGER
 );
 
+CREATE TABLE pledge
+
